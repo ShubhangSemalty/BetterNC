@@ -1,4 +1,4 @@
-# xc
+# BetterNC
 
 Netcat like reverse shell for Linux & Windows. This is/was my project for learning golang so expect some bugs. If you want to support this project you can reach out to me on twitter or discord - plenty of things to work on ;)
 
